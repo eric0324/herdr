@@ -1,6 +1,6 @@
-This is a Herdr config example fIle.
+This is a [Herdr](https://herdr.dev/) config example file.
 
-## EDIT Config
+## Edit Config
 
 ``` sh
 sudo vi ~/.config/herdr/config.toml
