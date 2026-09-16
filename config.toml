@@ -1,0 +1,13 @@
+[theme]
+name = "one-dark"
+auto_switch = false
+
+onboarding = false
+
+[keys]
+prefix = "ctrl+a"
+
+[ui]
+ui.toast.delivery = "system"
+prompt_new_tab_name = false
+copy_on_select = false
