@@ -1,8 +1,8 @@
+onboarding = false
+
 [theme]
 name = "one-dark"
 auto_switch = false
-
-onboarding = false
 
 [keys]
 prefix = "ctrl+a"
