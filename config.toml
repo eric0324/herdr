@@ -8,6 +8,5 @@ auto_switch = false
 prefix = "ctrl+a"
 
 [ui]
-ui.toast.delivery = "system"
 prompt_new_tab_name = false
 copy_on_select = false
